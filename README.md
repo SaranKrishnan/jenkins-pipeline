@@ -1,2 +1,2 @@
 # jenkins-pipeline
-Practice
+Practice with Jenkins webhooks
