@@ -8,6 +8,7 @@ pipeline {
                     echo "Multilevel shell steps works too"
                     ls -lah
                 '''
+                sh 'gcc sample.c'
             }
         }
     }
